@@ -2,7 +2,7 @@
 I'm making a game using Unity *( or C++, C# )*.
 
 ### Skills ✨
-* C#(Most Preferred)
+* C#(Most Preferred Language)
 * C
 * Unity
 * Git
