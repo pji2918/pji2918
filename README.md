@@ -1,5 +1,5 @@
 ### Hello, Everyone 👋
-I'm making a game using Unity *( or C++, C# )*.
+I'm making a game using Unity *( or C, C# )*.
 
 ### Skills ✨
 * C#(Most Preferred Language)
